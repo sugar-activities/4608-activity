@@ -1,0 +1,8 @@
+[Activity]
+name = JClic
+activity_version = 1
+bundle_id = org.ceibaljam.jclic
+icon = jclic
+exec = jclic-activity
+show_launcher = no
+license = GPL+
